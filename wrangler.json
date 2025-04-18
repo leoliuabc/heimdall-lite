@@ -5,8 +5,8 @@
     "upload_source_maps": true,
     "kv_namespaces": [
       {
-        "binding": "AUTH_STORAGE",
-        "id": "29f12e629a334158ad5c8af50a65bd74"
+        "binding": "STATUS_KV",
+        "id": "c679605aec604893b414c9df3451f4c5"
       }
     ],
     "triggers": {
