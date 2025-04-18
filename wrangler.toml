@@ -10,3 +10,6 @@ triggers = { crons = ["*/5 * * * *"] }
 
 [observability]
 enabled = true
+
+[env.staging.observability]
+enabled = true
